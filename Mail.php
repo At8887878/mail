@@ -2,7 +2,7 @@
 
 namespace app\campusAPI\controller;
 use think\Controller;
-use phpmailer\PHPMailer;
+use phpmailer\PHPMailer;//引入phpmailer
 
 
 
