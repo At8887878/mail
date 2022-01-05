@@ -1,6 +1,6 @@
 <?php
 
-namespace app\campusAPI\controller;
+namespace app\email\controller;
 use think\Controller;
 use phpmailer\PHPMailer;//引入phpmailer
 
